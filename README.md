@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java SpringBoot**
 
-- 👨‍💻 All of my projects are available at [aniruddhdadhich.com](www.aniruddhdadhich.com)
+- 👨‍💻 All of my projects are available at [aniruddhdadhich.com](https://www.aniruddhdadhich.com)
 
 - 📫 How to reach me **aniruddh.dadhich99@gmail.com**
 
