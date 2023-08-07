@@ -49,7 +49,6 @@
       height="40"
     />
   </a>
-  
 <span>&nbsp;</span>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
