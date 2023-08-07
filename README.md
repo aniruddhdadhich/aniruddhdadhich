@@ -116,7 +116,7 @@
   </p>
 
 <h2 align="left"> Backend </h2>
-<span align="center" style="background-color:#d4cbed">  
+<span align="center" style="background-color:#d4cbed;">  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
