@@ -49,8 +49,9 @@
       height="40"
     />
   </a>
-
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  
+<span>&nbsp;</span>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
@@ -58,7 +59,7 @@
       height="40"
     />
   </a>
-
+<span>&nbsp;</span>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -67,7 +68,7 @@
       height="40"
     />
   </a>
-
+<span>&nbsp;</span>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -76,6 +77,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -84,6 +86,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -92,6 +95,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -100,6 +104,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -108,6 +113,7 @@
       height="40"
     />
   </a>
+  
 
   <h3 align="left"> Backend </h3>
   
@@ -119,6 +125,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -127,7 +134,7 @@
       height="40"
     />
   </a>
-
+<span>&nbsp;</span>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -136,7 +143,7 @@
       height="40"
     />
   </a>
-
+<span>&nbsp;</span>
  <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
@@ -145,6 +152,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -153,6 +161,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -161,6 +170,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -169,6 +179,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -177,6 +188,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
   <a href="https://pugjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/pug.svg"
@@ -185,6 +197,7 @@
       height="40"
     />
   </a>
+  <span>&nbsp;</span>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
