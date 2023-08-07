@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer specializing in MERN stack.</h3>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ <a> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  <!----------------------------------------------------------------------Connect with me------------------------------------------------------------------------->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddhdadhich&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddhdadhich" /> </p>
