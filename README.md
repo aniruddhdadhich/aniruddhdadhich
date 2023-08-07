@@ -36,8 +36,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
   <span>&nbsp;</span>
