@@ -32,6 +32,7 @@
 
 <h2 align="center" >Languages and Tools:</h2>
 <h2 align="left"> Front-End </h2>
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -112,10 +113,10 @@
       height="65"
     />
   </a>
-  
+  </p>
 
-  <h2 align="left"> Backend </h2>
-  
+<h2 align="left"> Backend </h2>
+<p align="center">  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -205,6 +206,7 @@
       height="65"
     />
   </a>
+</p>
  
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <a> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
