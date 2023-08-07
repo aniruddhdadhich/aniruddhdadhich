@@ -205,10 +205,7 @@
       height="65"
     />
   </a>
-  
-
-<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhdadhich&show_icons=true&locale=en&layout=compact" alt="aniruddhdadhich" /></p> -->
-
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhdadhich&show_icons=true&locale=en" alt="aniruddhdadhich" /></span>
-
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhdadhich&" alt="aniruddhdadhich" /></span>
+ 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+ <a> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+ <!----------------------------------------------------------------------Connect with me------------------------------------------------------------------------->
