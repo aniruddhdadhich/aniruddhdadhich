@@ -116,7 +116,7 @@
   </p>
 
 <h2 align="left"> Backend </h2>
-<span align="center" style="background-color:#d4cbed;">  
+<p align="center" >  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -206,7 +206,7 @@
       height="65"
     />
   </a>
-</span>
+</p>
  
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <a> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
