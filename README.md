@@ -6,7 +6,7 @@
  <!----------------------------------------------------------------------Summary------------------------------------------------------------------------->
 
 
-- 🔭 I’m currently working in **Remedo Healthcare as a Software Developer**
+- 🔭 I’m currently working in **Remedo Healthcare as a Front-End Developer**
 
 - 🌱 I’m currently learning **Java SpringBoot**
 
