@@ -144,15 +144,15 @@
     />
   </a>
 <span>&nbsp;</span>
- <a href="https://spring.io/" target="_blank" rel="noreferrer">
+<!--  <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
       alt="spring"
       width="65"
       height="65"
     />
-  </a>
-  <span>&nbsp;</span>
+  </a> -->
+<!--   <span>&nbsp;</span> -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
