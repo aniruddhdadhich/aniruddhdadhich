@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **Remedo Healthcare as a Front-End Developer**
 
-- 🌱 I’m currently learning **Java SpringBoot**
+- 🌱 I’m currently learning **Express and MongoDB.**
 
 - 👨‍💻 You can visit my portfolio website at [aniruddhdadhich.com](https://www.aniruddhdadhich.com)
 
