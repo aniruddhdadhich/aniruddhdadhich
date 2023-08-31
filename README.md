@@ -12,7 +12,6 @@
 
 - 👨‍💻 You can visit my portfolio website at [aniruddhdadhich.com](https://www.aniruddhdadhich.com)
 
-- ⚡ Fun fact for you **JavaScript is a very drunk language.**
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <a> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
