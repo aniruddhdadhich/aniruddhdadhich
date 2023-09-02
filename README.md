@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Aniruddh Dadhich</h1>
-<h3 align="left">Full-Stack Developer specializing in MERN stack.</h3>
+<h3 align="left">Full-Stack Developer specializing in MERN Stack.</h3>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <a> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
