@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aniruddh Dadhich </h1>
+<h1 align="left">Hi 👋, I'm Aniruddh Dadhich</h1>
 <h3 align="left">Full-Stack Developer specializing in MERN Stack.</h3>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
