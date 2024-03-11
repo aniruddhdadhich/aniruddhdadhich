@@ -6,7 +6,7 @@
  <!----------------------------------------------------------------------Summary------------------------------------------------------------------------->
 
 
-- 🔭 I’m currently working in **Remedo Healthcare as a Front-End Developer**
+- 🔭 I’m currently working in **Datavid as a Full-Stack Developer**
 
 - 🌱 I’m currently learning **Express and MongoDB.**
 
