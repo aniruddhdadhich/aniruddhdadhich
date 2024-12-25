@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **Datavid as a Full-Stack Developer**
 
-- 🌱 I’m currently learning **Express and MongoDB.**
+- 🌱 I’m currently learning **SpringBoot.**
 
 - 👨‍💻 You can visit my portfolio website at [aniruddhdadhich.com](https://www.aniruddhdadhich.com)
 
