@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **SpringBoot.**
 
-- 👨‍💻 You can visit my portfolio website at [aniruddhdadhich.com](https://www.aniruddhdadhich.com)
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
