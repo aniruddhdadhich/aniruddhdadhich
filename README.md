@@ -6,9 +6,9 @@
  <!----------------------------------------------------------------------Summary------------------------------------------------------------------------->
 
 
-- 🔭 I’m currently working in **Datavid as a Full-Stack Developer**
+- 🔭 I’m currently working in **Mareana as a Software Engineer**
 
-- 🌱 I’m currently learning **SpringBoot.**
+- 🌱 I’m currently learning **Agentic AI and System Design.**
 
 
 
